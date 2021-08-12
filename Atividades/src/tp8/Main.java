@@ -16,20 +16,20 @@ public class Main{
         
         
         
-        //crud.adicionarAluno("Maria", 384487);          
+        //crud.adicionarAluno("Maria", 384487);   //Adiciona um aluno       
         
-        //crud.removerAluno(384487);
+        //crud.removerAluno(384487);              // Remove um aluno
         
-        //crud.atualizarAluno("Amaral", 383521);
+        //crud.atualizarAluno("Amaral", 383521);    // Modifica o nome do aluno baseado na sua chave primaria
         
-        //crud.pesquisarAluno(383521);
+        //crud.pesquisarAluno(383521);              //Pesquisa um aluno pela chave primaria
       
-        /*Aluno aluno = new Aluno();
+        /*Aluno aluno = new Aluno();                //Adiciona o aluno pela Classe Aluno
         aluno.setNome("Neon");
         aluno.setMatricula(144777);
         crud.adicionarAluno(aluno);*/
         
-       /*Aluno[] aluno = new Aluno[5];
+       /*Aluno[] aluno = new Aluno[5];              // Adiciona uma lista de 5 alunos simultaneamente
         aluno[0] = new Aluno();
         aluno[1] = new Aluno();
         aluno[2] = new Aluno();
@@ -49,7 +49,7 @@ public class Main{
         
         crud.adicionarListaAlunos(aluno);*/
         
-        //crud.pesquisarCampo("Thais");      
+        //crud.pesquisarCampo("Thais");                      // Pesquisa todos os alunos que tem um nome em comum
         
         
         
